@@ -245,6 +245,7 @@ A business analytics capstone focused on understanding business performance, mar
 | **IIT Madras** | Basics of PyTorch Programming (February 2026) |
 | **DeepLearning.AI** | ChatGPT Prompt Engineering for Developers |
 | **Power BI** | Data Visualization with Power BI |
+| **Credly** | [View my Credly Certifications & Badges](https://www.credly.com/users/deepak-kumar.2752cc61/badges/credly) |
 
 ---
 
