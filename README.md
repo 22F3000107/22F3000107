@@ -1,170 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=210&section=header&text=Deepak%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20%7C%20AI%20Engineering%20%7C%20Data%20Science&descAlignY=58&descSize=17" width="100%" alt="Purple gradient header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=210&section=header&text=Deepak%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20%7C%20AI%20Engineering%20%7C%20Data%20Science&descAlignY=58&descSize=17" width="100%" alt="Deepak Kumar - Applied ML, AI Engineering and Data Science">
 
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=IIT+Madras+Data+Science+Student;Applied+Machine+Learning+%7C+AI+Engineering;GenAI+%7C+Agentic+AI+%7C+Python;Building+practical+data-driven+systems">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=IIT+Madras+Data+Science+Student;Applied+Machine+Learning+%7C+AI+Engineering;GenAI+%7C+Agentic+AI+%7C+Python;Building+practical+data-driven+systems" alt="Animated typing text"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=IIT+Madras+Data+Science+Student;Applied+Machine+Learning+%7C+AI+Engineering;GenAI+%7C+Agentic+AI+%7C+Python;Building+practical+data-driven+systems" alt="Animated typing text">
 </a>
-
-
-
-
-
-
-
-
-
-
-
 
 </div>
 
-👋 About Me
+---
 
-I'm Deepak Kumar, an IIT Madras Data Science and Applications student building toward Applied ML and AI Engineering. I build practical Machine Learning, Generative AI, and Agentic AI systems, and enjoy turning real-world problems into data-driven applications.
+## 👋 About Me
 
-🎓 Education: B.S. in Data Science and Applications, IIT Madras
+I'm **Deepak Kumar**, an IIT Madras Data Science and Applications student building toward Applied ML and AI Engineering. I build practical Machine Learning, Generative AI, and Agentic AI systems, and enjoy turning real-world problems into data-driven applications.
 
-🤖 Interests: Applied Machine Learning, Data Science, GenAI, and Agentic AI
+- 🎓 **Education:** B.S. in Data Science and Applications, IIT Madras
+- 🤖 **Interests:** Applied Machine Learning, Data Science, GenAI, and Agentic AI
+- 🛠️ **Build with:** Python, SQL, PyTorch, Scikit-learn, Flask, FastAPI, and LLMs
+- 🧭 **Currently exploring:** Model evaluation, intelligent automation, and production-ready ML systems
+- 🤝 **Collaboration:** Machine Learning, AI/GenAI, Agentic AI, and data-driven projects
+- 💬 **Ask me about:** Python, Machine Learning, Data Science, LLMs, Agentic AI, SQL, Flask, and FastAPI
+- 🎯 **Open to:** Data Science, Data Analyst, Business Analyst, AI/ML, AI Engineering, and Software Engineering internship or entry-level opportunities
+- 📫 **Email:** [deepakjaykar302@gmail.com](mailto:deepakjaykar302@gmail.com)
 
-🛠️ Build with: Python, SQL, PyTorch, Scikit-learn, Flask, FastAPI, and LLMs
+---
 
-🧭 Currently exploring: Model evaluation, intelligent automation, and production-ready ML systems
+## 🧰 Tech Stack
 
-🤝 Collaboration: Machine Learning, AI/GenAI, Agentic AI, and data-driven projects
-
-💬 Ask me about: Python, Machine Learning, Data Science, LLMs, Agentic AI, SQL, Flask, and FastAPI
-
-🎯 Open to: Data Science, Data Analyst, Business Analyst, AI/ML, AI Engineering, and Software Engineering internship or entry-level opportunities
-
-📫 Email: deepakjaykar302@gmail.com
-
-🧰 Tech Stack
-
-Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS">
 </p>
 
-Machine Learning & Data Science
+### Machine Learning & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" alt="Scikit-learn, PyTorch, TensorFlow and OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" alt="Scikit-learn, PyTorch, TensorFlow and OpenCV">
 </p>
 
-Pandas · NumPy · SciPy · XGBoost · Random Forest · Matplotlib · Feature Engineering · Model Evaluation
+**Pandas · NumPy · SciPy · XGBoost · Random Forest · Matplotlib · Feature Engineering · Model Evaluation**
 
-AI & GenAI
+### AI & GenAI
 
-LLMs · Prompt Engineering · RAG · Embeddings · Vector Databases · Agentic AI · AI Automation
+**LLMs · Prompt Engineering · RAG · Embeddings · Vector Databases · Agentic AI · AI Automation**
 
-Frontend & Backend
+### Frontend & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,vue,tailwind,bootstrap" alt="Flask, FastAPI, Vue.js, Tailwind CSS and Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,vue,tailwind,bootstrap" alt="Flask, FastAPI, Vue.js, Tailwind CSS and Bootstrap">
 </p>
 
-REST APIs · Jinja · Streamlit · HTML/CSS · JavaScript
+**REST APIs · Jinja · Streamlit · HTML/CSS · JavaScript**
 
-Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,redis" alt="MySQL, SQLite, MongoDB, PostgreSQL and Redis"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,redis" alt="MySQL, SQLite, MongoDB, PostgreSQL and Redis">
 </p>
 
-Engineering, Cloud & Tools
+### Engineering, Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,githubactions,linux,selenium,playwright,postman" alt="Git, GitHub, Docker, AWS, GitHub Actions, Linux, Selenium, Playwright and Postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,githubactions,linux,selenium,playwright,postman" alt="Git, GitHub, Docker, AWS, GitHub Actions, Linux, Selenium, Playwright and Postman">
 </p>
 
-Celery · Power BI · Figma · Jira · VS Code · Confluence · Vercel · Netlify
+**Celery · Power BI · Figma · Jira · VS Code · Confluence · Vercel · Netlify**
 
-🧠 AI / ML Expertise
+---
 
-Domain
+## 🧠 AI / ML Expertise
 
-Experience Level
+| Domain | Experience Level | Focus |
+|---|---|---|
+| **Data Science & EDA** | Hands-on projects | Data cleaning, exploratory analysis, feature engineering, and preprocessing |
+| **Machine Learning** | Hands-on projects | Scikit-learn, XGBoost, Random Forest, classification, and model evaluation |
+| **Deep Learning** | Applied / learning | PyTorch, image classification, CNN concepts, and data augmentation |
+| **Generative AI** | Project experience | LLM workflows, prompt engineering, structured extraction, and automation |
+| **Agentic AI** | Project experience | Tool orchestration, multi-step workflows, and autonomous task execution |
+| **Data Analytics** | Hands-on projects | Statistical analysis, customer insights, visualization, and business analysis |
+| **Full-Stack Development** | Project experience | Flask APIs, Vue.js interfaces, SQL databases, and application integration |
 
-Focus
+---
 
-Data Science & EDA
-
-Hands-on projects
-
-Data cleaning, exploratory analysis, feature engineering, and preprocessing
-
-Machine Learning
-
-Hands-on projects
-
-Scikit-learn, XGBoost, Random Forest, classification, and model evaluation
-
-Deep Learning
-
-Applied / learning
-
-PyTorch, image classification, CNN concepts, and data augmentation
-
-Generative AI
-
-Project experience
-
-LLM workflows, prompt engineering, structured extraction, and automation
-
-Agentic AI
-
-Project experience
-
-Tool orchestration, multi-step workflows, and autonomous task execution
-
-Data Analytics
-
-Hands-on projects
-
-Statistical analysis, customer insights, visualization, and business analysis
-
-Full-Stack Development
-
-Project experience
-
-Flask APIs, Vue.js interfaces, SQL databases, and application integration
-
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><strong>🤖 Autonomous Lead Enrichment Agent</strong></summary>
 
 An autonomous agent that crawls public company websites, discovers relevant pages, cleans webpage content, and uses LLMs to extract structured company intelligence. It supports evidence-backed extraction and structured data exports.
 
-Category
-
-Details
-
-Stack
-
-Python, Playwright, Groq, GPT-OSS 20B, Pydantic, LLMs
-
-Scope
-
-Website crawling, page discovery, and company information extraction
-
-Performance
-
-Provides confidence, token, and API-cost estimates; no verified benchmark stated
-
-Safety & Data
-
-Extracts from public web pages and applies evidence-based email filtering
-
-Impact
-
-Produces structured company intelligence in JSON and CSV; supports JavaScript-rendered pages and failed-site handling
-
-Repository
-
-softwarebrio-ai-agent
+| Category | Details |
+|---|---|
+| **Stack** | Python, Playwright, Groq, GPT-OSS 20B, Pydantic, LLMs |
+| **Scope** | Website crawling, page discovery, and company information extraction |
+| **Performance** | Provides confidence, token, and API-cost estimates; no verified benchmark stated |
+| **Safety & Data** | Extracts from public web pages and applies evidence-based email filtering |
+| **Impact** | Produces structured company intelligence in JSON and CSV; supports JavaScript-rendered pages and failed-site handling |
+| **Repository** | [softwarebrio-ai-agent](https://github.com/22F3000107/softwarebrio-ai-agent) |
 
 </details>
 
@@ -173,33 +106,14 @@ softwarebrio-ai-agent
 
 An agentic AI workflow system for automating multi-step data workflows involving OCR, transcription, web scraping, and structured reporting.
 
-Category
-
-Details
-
-Stack
-
-Python, Flask, LLMs, RAG, Docker, Redis, Celery
-
-Scope
-
-Modular multi-step data workflow automation
-
-Performance
-
-Built to reduce manual intervention; no verified benchmark stated
-
-Engineering
-
-Containerized, modular tool-orchestration workflows
-
-Impact
-
-Brings multiple data-processing tasks into an automated workflow
-
-Repository
-
-Explore my GitHub repositories
+| Category | Details |
+|---|---|
+| **Stack** | Python, Flask, LLMs, RAG, Docker, Redis, Celery |
+| **Scope** | Modular multi-step data workflow automation |
+| **Performance** | Built to reduce manual intervention; no verified benchmark stated |
+| **Engineering** | Containerized, modular tool-orchestration workflows |
+| **Impact** | Brings multiple data-processing tasks into an automated workflow |
+| **Repository** | [Explore my GitHub repositories](https://github.com/22F3000107?tab=repositories) |
 
 </details>
 
@@ -208,33 +122,14 @@ Explore my GitHub repositories
 
 A machine learning project using antivirus telemetry to predict malware infection risk. The project covers exploratory data analysis, preprocessing, feature engineering, model training, and evaluation.
 
-Category
-
-Details
-
-Stack
-
-Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM
-
-Scope
-
-Large telemetry dataset with 100,000 training rows and 76 columns
-
-Performance
-
-Model evaluation includes ROC-AUC and log loss; resume reports a 12% accuracy improvement
-
-Security
-
-Predictive analysis of malware infection risk from antivirus telemetry
-
-Impact
-
-End-to-end machine learning pipeline and model comparison
-
-Repository
-
-Explore my GitHub repositories · Kaggle profile
+| Category | Details |
+|---|---|
+| **Stack** | Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM |
+| **Scope** | Large telemetry dataset with 100,000 training rows and 76 columns |
+| **Performance** | Model evaluation includes ROC-AUC and log loss; resume reports a 12% accuracy improvement |
+| **Security** | Predictive analysis of malware infection risk from antivirus telemetry |
+| **Impact** | End-to-end machine learning pipeline and model comparison |
+| **Repository** | [Explore my GitHub repositories](https://github.com/22F3000107?tab=repositories) · [Kaggle](https://www.kaggle.com/) |
 
 </details>
 
@@ -243,33 +138,14 @@ Explore my GitHub repositories · Kaggle profile
 
 Deep learning experiments involving image classification and data augmentation, including work completed during the IDEAS internship at ISI Kolkata.
 
-Category
-
-Details
-
-Stack
-
-Python, PyTorch, CNNs, DataLoader, image processing
-
-Scope
-
-Image classification datasets and augmentation workflows
-
-Performance
-
-Model experimentation and evaluation; no specific benchmark stated
-
-Engineering
-
-Data preparation, augmentation, and training workflow
-
-Impact
-
-Practical experience with computer vision and deep learning workflows
-
-Repository
-
-Explore my GitHub repositories
+| Category | Details |
+|---|---|
+| **Stack** | Python, PyTorch, CNNs, DataLoader, image processing |
+| **Scope** | Image classification datasets and augmentation workflows |
+| **Performance** | Model experimentation and evaluation; no specific benchmark stated |
+| **Engineering** | Data preparation, augmentation, and training workflow |
+| **Impact** | Practical experience with computer vision and deep learning workflows |
+| **Repository** | [Explore my GitHub repositories](https://github.com/22F3000107?tab=repositories) |
 
 </details>
 
@@ -278,33 +154,14 @@ Explore my GitHub repositories
 
 A full-stack service marketplace built with a Flask backend and Vue.js frontend, with structured SQL data storage and backend optimization.
 
-Category
-
-Details
-
-Stack
-
-Flask, Vue.js, SQL, SQLite, Redis, Celery
-
-Scope
-
-Full-stack service marketplace
-
-Performance
-
-Reported 35% reduction in average response time
-
-Security
-
-JWT authentication and role-based access control
-
-Impact
-
-Service workflows supported by optimized backend operations
-
-Repository
-
-Explore my GitHub repositories
+| Category | Details |
+|---|---|
+| **Stack** | Flask, Vue.js, SQL, SQLite, Redis, Celery |
+| **Scope** | Full-stack service marketplace |
+| **Performance** | Reported 35% reduction in average response time |
+| **Security** | JWT authentication and role-based access control |
+| **Impact** | Service workflows supported by optimized backend operations |
+| **Repository** | [Household-Services-Application](https://github.com/22F3000107/Household-Services-Application) |
 
 </details>
 
@@ -313,33 +170,14 @@ Explore my GitHub repositories
 
 A full-stack application with modules for goals, habits, and analytics dashboards, developed with user-interview-informed iterative design.
 
-Category
-
-Details
-
-Stack
-
-Python, Flask, Vue.js, JavaScript
-
-Scope
-
-Life-skills application for school-aged children
-
-Performance
-
-Reported 40% improvement in user engagement
-
-Privacy
-
-Child-focused privacy considerations
-
-Impact
-
-Interactive tools for habit-building and personal development
-
-Repository
-
-Explore my GitHub repositories
+| Category | Details |
+|---|---|
+| **Stack** | Python, Flask, Vue.js, JavaScript |
+| **Scope** | Life-skills application for school-aged children |
+| **Performance** | Reported 40% improvement in user engagement |
+| **Privacy** | Child-focused privacy considerations |
+| **Impact** | Interactive tools for habit-building and personal development |
+| **Repository** | [life-skills-app](https://github.com/22F3000107/life-skills-app) |
 
 </details>
 
@@ -348,190 +186,212 @@ Explore my GitHub repositories
 
 A business analytics capstone focused on understanding business performance, margins, repeat customers, and customer segments through descriptive analysis and visualization.
 
-Category
-
-Details
-
-Stack
-
-Python, Pandas, statistical analysis, visualization, Folium
-
-Scope
-
-165 business records
-
-Performance
-
-Descriptive and exploratory analysis; no predictive benchmark claimed
-
-Methods
-
-Descriptive statistics, Pareto analysis, segmentation, and geographic visualization
-
-Impact
-
-Identified patterns in margins, repeat purchases, and customer segments
-
-Repository
-
-BDM Project
+| Category | Details |
+|---|---|
+| **Stack** | Python, Pandas, statistical analysis, visualization, Folium |
+| **Scope** | 165 business records |
+| **Performance** | Descriptive and exploratory analysis; no predictive benchmark claimed |
+| **Methods** | Descriptive statistics, Pareto analysis, segmentation, and geographic visualization |
+| **Impact** | Identified patterns in margins, repeat purchases, and customer segments |
+| **Repository** | [BDM_PROJECT](https://github.com/22F3000107/BDM_PROJECT) |
 
 </details>
 
-💼 Experience
+---
 
-Data Science Intern — IDEAS, ISI Kolkata
+## 💼 Experience
 
-January 2026 – February 2026
+### Data Science Intern — IDEAS, ISI Kolkata
 
-Developed and evaluated machine learning models for image classification on real-world datasets.
+**January 2026 – February 2026**
 
-Applied data cleaning, augmentation, and feature engineering.
+- Developed and evaluated machine learning models for image classification on real-world datasets.
+- Applied data cleaning, augmentation, and feature engineering.
+- Supported project workflows from problem definition through experimentation, statistical analysis, and evaluation.
+- Communicated findings to help guide next steps.
 
-Supported project workflows from problem definition through experimentation, statistical analysis, and evaluation.
+**Skills:** Python · Machine Learning · Image Classification · Data Augmentation · Feature Engineering · Model Evaluation
 
-Communicated findings to help guide next steps.
+---
 
-Skills: Python · Machine Learning · Image Classification · Data Augmentation · Feature Engineering · Model Evaluation
+## 🏅 Achievements & Highlights
 
-🏅 Achievements & Highlights
+| Recognition | Details |
+|---|---|
+| **IIT Madras** | Pursuing a B.S. in Data Science and Applications |
+| **Applied ML** | Built a malware prediction pipeline using antivirus telemetry |
+| **Agentic AI** | Developed an LLM-powered workflow automation system |
+| **Business Analytics** | Completed a business data management capstone using company data |
 
-Recognition
+---
 
-Details
+## 📜 Certifications & Workshops
 
-IIT Madras
+| Provider | Certification / Workshop |
+|---|---|
+| **AWS Academy** | AWS Academy Graduate — Cloud Foundations (September 2025) |
+| **IIT Madras** | Generative AI Workshop |
+| **IIT Madras** | Basics of PyTorch Programming (February 2026) |
+| **DeepLearning.AI** | ChatGPT Prompt Engineering for Developers |
+| **Power BI** | Data Visualization with Power BI |
 
-Pursuing a B.S. in Data Science and Applications
+---
 
-Applied ML
+## 💻 Coding & Community Profiles
 
-Built a malware prediction pipeline using antivirus telemetry
+<p align="center">
 
-Agentic AI
+<a href="https://github.com/22F3000107">
+  <img src="https://img.shields.io/badge/GitHub-22F3000107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+</a>
 
-Developed an LLM-powered workflow automation system
+<a href="https://www.linkedin.com/in/deepak-kumar-855999268/">
+  <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+</a>
 
-Business Analytics
+<a href="mailto:deepakjaykar302@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Deepak Kumar">
+</a>
 
-Completed a business data management capstone using company data
+</p>
 
-📜 Certifications & Workshops
+---
 
-Provider
+## 📊 GitHub Analytics
 
-Certification / Workshop
+<p align="center">
 
-AWS Academy
+<a href="https://github.com/22F3000107">
+  <img src="https://img.shields.io/github/followers/22F3000107?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
+</a>
 
-AWS Academy Graduate — Cloud Foundations (September 2025)
+<a href="https://github.com/22F3000107?tab=repositories">
+  <img src="https://img.shields.io/github/repos/22F3000107?style=for-the-badge&logo=github&label=Repositories" alt="GitHub repositories">
+</a>
 
-IIT Madras
+<a href="https://github.com/22F3000107?tab=stars">
+  <img src="https://img.shields.io/github/stars/22F3000107?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
+</a>
 
-Generative AI Workshop
+</p>
 
-IIT Madras
+<p align="center">
 
-Basics of PyTorch Programming (February 2026)
+<a href="https://github.com/22F3000107">
+  <img src="https://img.shields.io/badge/View%20GitHub%20Profile-22F3000107-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
+</a>
 
-DeepLearning.AI
+</p>
 
-ChatGPT Prompt Engineering for Developers
+---
 
-Power BI
+## 🏆 GitHub Trophies
 
-Data Visualization with Power BI
+Instead of embedding a third-party trophy image that can fail to load, the profile links directly to GitHub where the account's current public activity can be viewed.
 
-💻 Coding & Community Profiles
+<p align="center">
+
+<a href="https://github.com/22F3000107">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
+</a>
+
+</p>
+
+---
+
+## 🌌 Contribution Activity
+
+GitHub's native contribution graph is available directly on my profile.
+
+<p align="center">
+
+<a href="https://github.com/22F3000107">
+  <img src="https://img.shields.io/badge/View%20Contribution%20Graph-GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution activity">
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+The contribution snake is generated automatically through a GitHub Actions workflow.
+
+Once the workflow has successfully generated the SVG and published it to the `output` branch, this section can use the generated image.
+
+<!--
+Enable the image below ONLY after the GitHub Actions workflow has successfully created:
+
+output/github-contribution-grid-snake-dark.svg
+-->
+
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/22F3000107/22F3000107/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation">
+</p>
+-->
+
+> **Setup required:** The snake animation will not appear until the GitHub Actions workflow has generated the SVG and published it to the `output` branch.
+
+---
+
+## 🎯 Current Focus
+
+### Learning
+
+- Applied Machine Learning and model evaluation
+- Deep Learning with PyTorch
+- LLMs, RAG, and Agentic AI
+- AI Engineering and production-ready ML systems
+
+### Building
+
+- Autonomous Lead Enrichment Agent
+- Agentic AI workflow automation
+- Practical ML and data-driven applications
+
+### Exploring
+
+- Intelligent automation and AI agents
+- Model evaluation and deployment workflows
+- Data analytics and business intelligence
+
+### Open To
+
+- Data Science internships and entry-level roles
+- Data Analyst and Business Analyst roles
+- AI/ML and AI Engineering opportunities
+- Software Engineering internships
+- Collaboration on AI and data projects
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/22F3000107">
+  <img src="https://img.shields.io/badge/GitHub-22F3000107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-kumar-855999268/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:deepakjaykar302@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Deepak%20Kumar-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</p>
+
+<p align="center">
+
+<i>“Turning real-world problems into data-driven solutions and useful technology.”</i>
+
+</p>
 
 <div align="center">
 
-
-
-
-
-
-
-
-</div>
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=22F3000107&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22F3000107&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=22F3000107&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=22F3000107&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
-
-</div>
-
-🌌 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22F3000107&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/22F3000107/22F3000107/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
-Note: The snake animation appears after a GitHub Actions workflow generates the SVG and publishes it to the output branch.
-
-🎯 Current Focus
-
-learning:
-  - Applied Machine Learning and model evaluation
-  - Deep Learning with PyTorch
-  - LLMs, RAG, and Agentic AI
-  - AI Engineering and production-ready ML systems
-
-building:
-  - Autonomous Lead Enrichment Agent
-  - Agentic AI workflow automation
-  - Practical ML and data-driven applications
-
-exploring:
-  - Intelligent automation and AI agents
-  - Model evaluation and deployment workflows
-  - Data analytics and business intelligence
-
-open_to:
-  - Data Science internships and entry-level roles
-  - Data Analyst and Business Analyst roles
-  - AI/ML and AI Engineering opportunities
-  - Software Engineering internships
-  - Collaboration on AI and data projects
-
-🤝 Connect With Me
-
-<div align="center">
-
-
-
-
-
-
-</div>
-
-<div align="center">
-
-“Turning real-world problems into data-driven solutions and useful technology.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=120&section=footer" width="100%" alt="Purple gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=120&section=footer" width="100%" alt="Purple gradient footer">
 
 </div>
