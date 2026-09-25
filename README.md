@@ -1,10 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=210&section=header&text=Deepak%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20%7C%20AI%20Engineering%20%7C%20Data%20Science&descAlignY=58&descSize=17" width="100%" alt="Deepak Kumar - Applied ML, AI Engineering and Data Science">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=210&section=header&text=Deepak%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20%7C%20AI%20Engineering%20%7C%20Data%20Science&descAlignY=58&descSize=17" width="100%" alt="Purple gradient header" />
 
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=IIT+Madras+Data+Science+Student;Applied+Machine+Learning+%7C+AI+Engineering;GenAI+%7C+Agentic+AI+%7C+Python;Building+practical+data-driven+systems">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=IIT+Madras+Data+Science+Student;Applied+Machine+Learning+%7C+AI+Engineering;GenAI+%7C+Agentic+AI+%7C+Python;Building+practical+data-driven+systems" alt="Animated typing text">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=IIT+Madras+Data+Science+Student;Applied+Machine+Learning+%7C+AI+Engineering;GenAI+%7C+Agentic+AI+%7C+Python;Building+practical+data-driven+systems" alt="Animated typing text" />
 </a>
+
+[![IIT Madras](https://img.shields.io/badge/IIT_Madras-BS_Data_Science-4F46E5?style=for-the-badge&logo=academia&logoColor=white)](https://study.iitm.ac.in/ds/)
+[![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-4338CA?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/maps)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://deepak-kumar-portfolio-showcase.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-855999268/)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakjaykar302@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22F3000107)
+
+![Profile Views](https://komarev.com/ghpvc/?username=22F3000107&style=flat-square&color=6D28D9&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/22F3000107?style=flat-square&color=4F46E5&label=FOLLOWERS)](https://github.com/22F3000107?tab=followers)
+[![Stars](https://img.shields.io/github/stars/22F3000107?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=7C3AED&label=STARS)](https://github.com/22F3000107?tab=repositories)
 
 </div>
 
@@ -12,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm **Deepak Kumar**, an IIT Madras Data Science and Applications student building toward Applied ML and AI Engineering. I build practical Machine Learning, Generative AI, and Agentic AI systems, and enjoy turning real-world problems into data-driven applications.
+I'm **Deepak Kumar**, an IIT Madras Data Science and Applications student building toward **Applied ML and AI Engineering**. I build practical Machine Learning, Generative AI, and Agentic AI systems, and enjoy turning real-world problems into data-driven applications.
 
 - 🎓 **Education:** B.S. in Data Science and Applications, IIT Madras
 - 🤖 **Interests:** Applied Machine Learning, Data Science, GenAI, and Agentic AI
@@ -30,42 +41,42 @@ I'm **Deepak Kumar**, an IIT Madras Data Science and Applications student buildi
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS" />
 </p>
 
 ### Machine Learning & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" alt="Scikit-learn, PyTorch, TensorFlow and OpenCV">
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" alt="Scikit-learn, PyTorch, TensorFlow and OpenCV" />
 </p>
 
-**Pandas · NumPy · SciPy · XGBoost · Random Forest · Matplotlib · Feature Engineering · Model Evaluation**
+`Pandas` · `NumPy` · `SciPy` · `XGBoost` · `Random Forest` · `Matplotlib` · `Feature Engineering` · `Model Evaluation`
 
 ### AI & GenAI
 
-**LLMs · Prompt Engineering · RAG · Embeddings · Vector Databases · Agentic AI · AI Automation**
+`LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Databases` · `Agentic AI` · `AI Automation`
 
 ### Frontend & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,vue,tailwind,bootstrap" alt="Flask, FastAPI, Vue.js, Tailwind CSS and Bootstrap">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,vue,tailwind,bootstrap" alt="Flask, FastAPI, Vue.js, Tailwind CSS and Bootstrap" />
 </p>
 
-**REST APIs · Jinja · Streamlit · HTML/CSS · JavaScript**
+`REST APIs` · `Jinja` · `Streamlit` · `HTML/CSS` · `JavaScript`
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,redis" alt="MySQL, SQLite, MongoDB, PostgreSQL and Redis">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,redis" alt="MySQL, SQLite, MongoDB, PostgreSQL and Redis" />
 </p>
 
 ### Engineering, Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,githubactions,linux,selenium,playwright,postman" alt="Git, GitHub, Docker, AWS, GitHub Actions, Linux, Selenium, Playwright and Postman">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,githubactions,linux,selenium,playwright,postman" alt="Git, GitHub, Docker, AWS, GitHub Actions, Linux, Selenium, Playwright and Postman" />
 </p>
 
-**Celery · Power BI · Figma · Jira · VS Code · Confluence · Vercel · Netlify**
+`Celery` · `Power BI` · `Figma` · `Jira` · `VS Code` · `Confluence` · `Vercel` · `Netlify`
 
 ---
 
@@ -73,13 +84,13 @@ I'm **Deepak Kumar**, an IIT Madras Data Science and Applications student buildi
 
 | Domain | Experience Level | Focus |
 |---|---|---|
-| **Data Science & EDA** | Hands-on projects | Data cleaning, exploratory analysis, feature engineering, and preprocessing |
-| **Machine Learning** | Hands-on projects | Scikit-learn, XGBoost, Random Forest, classification, and model evaluation |
-| **Deep Learning** | Applied / learning | PyTorch, image classification, CNN concepts, and data augmentation |
-| **Generative AI** | Project experience | LLM workflows, prompt engineering, structured extraction, and automation |
-| **Agentic AI** | Project experience | Tool orchestration, multi-step workflows, and autonomous task execution |
-| **Data Analytics** | Hands-on projects | Statistical analysis, customer insights, visualization, and business analysis |
-| **Full-Stack Development** | Project experience | Flask APIs, Vue.js interfaces, SQL databases, and application integration |
+| Data Science & EDA | Hands-on projects | Data cleaning, exploratory analysis, feature engineering, and preprocessing |
+| Machine Learning | Hands-on projects | Scikit-learn, XGBoost, Random Forest, classification, and model evaluation |
+| Deep Learning | Applied / learning | PyTorch, image classification, CNN concepts, and data augmentation |
+| Generative AI | Project experience | LLM workflows, prompt engineering, structured extraction, and automation |
+| Agentic AI | Project experience | Tool orchestration, multi-step workflows, and autonomous task execution |
+| Data Analytics | Hands-on projects | Statistical analysis, customer insights, visualization, and business analysis |
+| Full-Stack Development | Project experience | Flask APIs, Vue.js interfaces, SQL databases, and application integration |
 
 ---
 
@@ -129,7 +140,7 @@ A machine learning project using antivirus telemetry to predict malware infectio
 | **Performance** | Model evaluation includes ROC-AUC and log loss; resume reports a 12% accuracy improvement |
 | **Security** | Predictive analysis of malware infection risk from antivirus telemetry |
 | **Impact** | End-to-end machine learning pipeline and model comparison |
-| **Repository** | [Explore my GitHub repositories](https://github.com/22F3000107?tab=repositories) · [Kaggle](https://www.kaggle.com/) |
+| **Repository** | [Explore my GitHub repositories](https://github.com/22F3000107?tab=repositories) · [Kaggle profile](https://www.kaggle.com/deepakkumar802) |
 
 </details>
 
@@ -161,7 +172,7 @@ A full-stack service marketplace built with a Flask backend and Vue.js frontend,
 | **Performance** | Reported 35% reduction in average response time |
 | **Security** | JWT authentication and role-based access control |
 | **Impact** | Service workflows supported by optimized backend operations |
-| **Repository** | [Household-Services-Application](https://github.com/22F3000107/Household-Services-Application) |
+| **Repository** | [Explore my GitHub repositories](https://github.com/22F3000107?tab=repositories) |
 
 </details>
 
@@ -177,7 +188,7 @@ A full-stack application with modules for goals, habits, and analytics dashboard
 | **Performance** | Reported 40% improvement in user engagement |
 | **Privacy** | Child-focused privacy considerations |
 | **Impact** | Interactive tools for habit-building and personal development |
-| **Repository** | [life-skills-app](https://github.com/22F3000107/life-skills-app) |
+| **Repository** | [Explore my GitHub repositories](https://github.com/22F3000107?tab=repositories) |
 
 </details>
 
@@ -193,7 +204,7 @@ A business analytics capstone focused on understanding business performance, mar
 | **Performance** | Descriptive and exploratory analysis; no predictive benchmark claimed |
 | **Methods** | Descriptive statistics, Pareto analysis, segmentation, and geographic visualization |
 | **Impact** | Identified patterns in margins, repeat purchases, and customer segments |
-| **Repository** | [BDM_PROJECT](https://github.com/22F3000107/BDM_PROJECT) |
+| **Repository** | [BDM Project](https://github.com/22F3000107/BDM_PROJECT) |
 
 </details>
 
@@ -239,159 +250,115 @@ A business analytics capstone focused on understanding business performance, mar
 
 ## 💻 Coding & Community Profiles
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/22F3000107">
-  <img src="https://img.shields.io/badge/GitHub-22F3000107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-22F3000107-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22F3000107)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Deepak_Kumar-4F46E5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/deepakkumar802)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/deepakkumar_47181)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepakjaykar820)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-4338CA?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@deepakjaykar5001)
+[![Reddit](https://img.shields.io/badge/Reddit-Connect-5B21B6?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/u/Wonderful-Roof4822)
 
-<a href="https://www.linkedin.com/in/deepak-kumar-855999268/">
-  <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
-</a>
-
-<a href="mailto:deepakjaykar302@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Deepak Kumar">
-</a>
-
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/22F3000107">
-  <img src="https://img.shields.io/github/followers/22F3000107?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=22F3000107&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22F3000107&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800" alt="Top languages" />
 
-<a href="https://github.com/22F3000107?tab=repositories">
-  <img src="https://img.shields.io/github/repos/22F3000107?style=for-the-badge&logo=github&label=Repositories" alt="GitHub repositories">
-</a>
+<img width="70%" src="https://streak-stats.demolab.com?user=22F3000107&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak" />
 
-<a href="https://github.com/22F3000107?tab=stars">
-  <img src="https://img.shields.io/github/stars/22F3000107?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
-</a>
+</div>
 
-</p>
-
-<p align="center">
-
-<a href="https://github.com/22F3000107">
-  <img src="https://img.shields.io/badge/View%20GitHub%20Profile-22F3000107-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
-</a>
-
-</p>
+> **Note:** These cards are generated by community-run public services (`github-readme-stats`, `streak-stats`), not by GitHub itself. Their maintainers describe the free public instance as "best effort" — it can occasionally rate-limit and show a broken-image icon for a few minutes before recovering. If a card ever stops loading for you, refresh after a minute, or see **GitHub Setup Instructions** below for a self-hosted fallback that never breaks.
 
 ---
 
 ## 🏆 GitHub Trophies
 
-Instead of embedding a third-party trophy image that can fail to load, the profile links directly to GitHub where the account's current public activity can be viewed.
+<div align="center">
 
-<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=22F3000107&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 
-<a href="https://github.com/22F3000107">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
-</a>
-
-</p>
+</div>
 
 ---
 
 ## 🌌 Contribution Activity
 
-GitHub's native contribution graph is available directly on my profile.
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=22F3000107&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
-<a href="https://github.com/22F3000107">
-  <img src="https://img.shields.io/badge/View%20Contribution%20Graph-GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution activity">
-</a>
-
-</p>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-The contribution snake is generated automatically through a GitHub Actions workflow.
+<div align="center">
 
-Once the workflow has successfully generated the SVG and published it to the `output` branch, this section can use the generated image.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/22F3000107/22F3000107/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/22F3000107/22F3000107/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+</picture>
 
-<!--
-Enable the image below ONLY after the GitHub Actions workflow has successfully created:
+</div>
 
-output/github-contribution-grid-snake-dark.svg
--->
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/22F3000107/22F3000107/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation">
-</p>
--->
-
-> **Setup required:** The snake animation will not appear until the GitHub Actions workflow has generated the SVG and published it to the `output` branch.
+> **Setup required before this renders:** The snake animation is not generated by GitHub automatically — it needs a GitHub Actions workflow in this repository that builds the SVG and pushes it to an `output` branch. A ready-to-use workflow (`snake.yml`) is provided alongside this README. **Until you add and run that workflow once, comment out or delete the `<picture>` block above** so it doesn't show as a broken image; add it back after the workflow's first successful run. Setup steps are in **GitHub Setup Instructions** below.
 
 ---
 
 ## 🎯 Current Focus
 
-### Learning
+```yaml
+learning:
+  - Applied Machine Learning and model evaluation
+  - Deep Learning with PyTorch
+  - LLMs, RAG, and Agentic AI
+  - AI Engineering and production-ready ML systems
 
-- Applied Machine Learning and model evaluation
-- Deep Learning with PyTorch
-- LLMs, RAG, and Agentic AI
-- AI Engineering and production-ready ML systems
+building:
+  - Autonomous Lead Enrichment Agent
+  - Agentic AI workflow automation
+  - Practical ML and data-driven applications
 
-### Building
+exploring:
+  - Intelligent automation and AI agents
+  - Model evaluation and deployment workflows
+  - Data analytics and business intelligence
 
-- Autonomous Lead Enrichment Agent
-- Agentic AI workflow automation
-- Practical ML and data-driven applications
-
-### Exploring
-
-- Intelligent automation and AI agents
-- Model evaluation and deployment workflows
-- Data analytics and business intelligence
-
-### Open To
-
-- Data Science internships and entry-level roles
-- Data Analyst and Business Analyst roles
-- AI/ML and AI Engineering opportunities
-- Software Engineering internships
-- Collaboration on AI and data projects
+open_to:
+  - Data Science internships and entry-level roles
+  - Data Analyst and Business Analyst roles
+  - AI/ML and AI Engineering opportunities
+  - Software Engineering internships
+  - Collaboration on AI and data projects
+```
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/22F3000107">
-  <img src="https://img.shields.io/badge/GitHub-22F3000107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakjaykar302@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-855999268/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22F3000107)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://deepak-kumar-portfolio-showcase.lovable.app/)
 
-<a href="https://www.linkedin.com/in/deepak-kumar-855999268/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</div>
 
-<a href="mailto:deepakjaykar302@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Deepak%20Kumar-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</p>
-
-<p align="center">
-
-<i>“Turning real-world problems into data-driven solutions and useful technology.”</i>
-
-</p>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=120&section=footer" width="100%" alt="Purple gradient footer">
+*"Turning real-world problems into data-driven solutions and useful technology."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:5b21b6,100:4338ca&height=120&section=footer" width="100%" alt="Purple gradient footer" />
 
 </div>
